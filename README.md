@@ -16,5 +16,5 @@
         Colab work is done.
         Now download the modelname.hdf5 file from the google drive,which is saved using model.save(filename.hdf5)
 #### step 5)Integrate the trained model with openCV to recognize the faces(refer output.ipynb) locally.
-        The folder structure should be project.png
+        The folder structure should look like project.png
         Run the output.ipynb locally
