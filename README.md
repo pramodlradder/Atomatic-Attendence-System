@@ -8,4 +8,5 @@
         Now the colab folder structure should look like colabstructure.png
 #### step 3)Crop the faces and save them to original paths.(refer facex.ipynb)
 #### step 4)Train the model(refer vggface.ipynb)
-#### step 5)Integrate the trained model with openCV to recognize the faces(refer output.ipynb)
+         Colab work is done.
+#### step 5)Integrate the trained model with openCV to recognize the faces(refer output.ipynb) locally.
