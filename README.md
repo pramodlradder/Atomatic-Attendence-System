@@ -18,3 +18,5 @@
 #### step 5)Integrate the trained model with openCV to recognize the faces(refer output.ipynb) locally.
         The folder structure should look like project.png
         Run the output.ipynb locally
+        
+#### You can see the sample outputs in SampleOutputs folder. 
