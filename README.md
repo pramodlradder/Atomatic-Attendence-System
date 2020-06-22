@@ -1,4 +1,4 @@
-# Atomatic-Attendence-System
+# Atomatic Attendence System
 ## Atomatic Attendence System using face recognition
 ## <br><b>Steps to follow:</b>
 #### Step 0)Create a python environment with version 3.5.0(Compulsory step) 
